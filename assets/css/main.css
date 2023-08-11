@@ -2854,6 +2854,7 @@ input, select, textarea {
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: contain;
+			background-color: #0F0326; 
 			content: '';
 			display: inline-block;
 			height: 100%;
